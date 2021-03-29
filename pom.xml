@@ -4,7 +4,6 @@
 
   <groupId>com.mycompany.projectgroup</groupId>
   <artifactId>postman</artifactId>  
-  <artifactId>narusheniy</artifactId>
   <version>01</version>
 
   <build>
